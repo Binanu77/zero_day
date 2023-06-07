@@ -1,0 +1,1 @@
+**Strong** __Vagrant__
